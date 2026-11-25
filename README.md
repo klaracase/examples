@@ -6,7 +6,7 @@ klaracase holds German court decisions, German statutes and German administrativ
 
 klaracase is a research tool. It gives no legal advice and does not replace a lawyer's review. Open every source and read the original text before you use it.
 
-**Deutsch:** Dieses Repository sammelt fertige Beispiele für die klaracase API, zum Beispiel Flows für n8n und Zapier und später größere Anwendungen. Jedes Beispiel liegt in einem eigenen Ordner mit Anleitung. Die Anleitungen im Ordner sind auf Englisch, die Notiz im n8n-Flow ist zweisprachig. Die Dokumentation zur API finden Sie unter https://klaracase.de/docs.
+**Deutsch:** Dieses Repository sammelt fertige Beispiele für die klaracase API, zum Beispiel Flows für n8n und Zapier und später größere Anwendungen. Jedes Beispiel liegt in einem eigenen Ordner mit Anleitung. Die Anleitungen im Ordner sind auf Englisch, die Notiz im n8n-Flow ist zweisprachig. Die Tutorials finden Sie unter https://klaracase.de/tutorials, die Dokumentation zur API unter https://klaracase.de/docs.
 
 ## Examples
 

@@ -4,6 +4,8 @@ An n8n workflow that reads Gmail messages with a legal question, searches the kl
 
 klaracase covers German court decisions, German statutes and German administrative guidance. It is a research tool. It gives no legal advice. It does not check whether a decision is still good law.
 
+Step-by-step tutorial: [English](https://klaracase.de/en/tutorials/email-triage-gmail-api), [Deutsch](https://klaracase.de/tutorials/email-triage-gmail-api).
+
 ## What the flow does
 
 ```
